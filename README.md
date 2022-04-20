@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItsJustAce!
+- 👋 Hi, I’m ace!
 - 👀 I’m interested in game development!
 - 🌱 I’m currently learning Godot & GDScript
 - 📫 Reach me on Discord! Ace#2161 
