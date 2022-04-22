@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ace!
-- 👀 I’m interested in game development!
-- 🌱 I’m currently learning Godot & GDScript
+- 👀 I’m interested in game & web development!
+- 🌱 I’m currently learning through The Odin Project
 - 📫 Reach me on Discord! Ace#2161 
 
 <!---
