@@ -1,7 +1,6 @@
-- 👋 Hi, I’m ace!
+- 👋 Hi, I’m Tom!
 - 👀 I’m interested in game & web development!
-- 🌱 I’m currently learning through The Odin Project
-- 📫 Reach me on Discord! Ace#2161 
+- 🌱 I’m currently studying Computer Science at UWE.
 
 <!---
 ItsJustAce/ItsJustAce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
